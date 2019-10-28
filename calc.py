@@ -76,6 +76,7 @@ def getData():
     return x, y, sign
 
 if __name__ == "__main__":
+    print("Первая фича")
     answer = input("Вы хотите воспользоваться калькулятором? (да, нет): ")
     if answer == "да":
         tup = getData()
