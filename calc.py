@@ -86,6 +86,9 @@ if __name__ == "__main__":
         bla = binaryHandler()
         print(bla.handler())
 
+
+        
+
     
     
 
